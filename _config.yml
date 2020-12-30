@@ -1,1 +1,17 @@
 theme: jekyll-theme-hacker
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - readme.md
+  - module_1.md
+  - module_2.md
+  - module_3.md
+  - module_4.md
+  - module_5.md
+  - module_6.md
+  - module_7.md
+  - module_8.md
+  - module_9.md
